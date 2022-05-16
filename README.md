@@ -28,20 +28,25 @@ The uncertainty in tax legislation relating to cryptographic tokens and digital 
 
 
 
-Introduction
+-Introduction
 Cryptocurrency mining is the competitive process that verifies and adds new transactions to the blockchain for a cryptocurrency that uses the proof-of-work (PoW) method. The miner that is selected is rewarded with some amount of the currency and/or transaction fees. Currently, there is a stigma that cryptocurrency mining is harmful to the environment due to its high energy requirement and powerful computers needed to process transactions.
 
-Luna Miners is a Decentralized Autonomous Organization (DAO) that mines PoW cryptocurrencies and shares the profits generated with Luna Miner’s NFT holders managed by smart contracts. All mining profits will be sent to a multi-chain wallet where they will be converted to UST or Luna. From this wallet, the funds will be distributed to Luna Miner’s treasury wallet on the Terra blockchain. The treasury will hold 10% of monthly profits to minimize environmental footprint, expand mining operations, and invest in future projects. All remaining funds will be sent to a community wallet and distributed accordingly to the community vote.
 
-All assets bought by the Luna Miners DAO will be 100% owned by the NFT holders. All rights to any miners purchased by the DAO belong to the NFT holders. If a holder chooses to sell their NFT, they sell their right to vote in the Luna Miner DAO in addition to any other benefits that NFT comes with.
+-Luna Miners is a Decentralized Autonomous Organization (DAO) that mines PoW cryptocurrencies and shares the profits generated with Luna Miner’s NFT holders managed by smart contracts. All mining profits will be sent to a multi-chain wallet where they will be converted to UST or Luna. From this wallet, the funds will be distributed to Luna Miner’s treasury wallet on the Terra blockchain. The treasury will hold 10% of monthly profits to minimize environmental footprint, expand mining operations, and invest in future projects. All remaining funds will be sent to a community wallet and distributed accordingly to the community vote.
 
-Mission
+
+-All assets bought by the Luna Miners DAO will be 100% owned by the NFT holders. All rights to any miners purchased by the DAO belong to the NFT holders. If a holder chooses to sell their NFT, they sell their right to vote in the Luna Miner DAO in addition to any other benefits that NFT comes with.
+
+
+-Mission
 Luna Miner’s mission is to develop a fully transparent mining facility that is also environmentally sound. In addition to this, this DAO will bring more liquidity to the Terra ecosystem and provide a new source of passive income for people and protocols. This project allows the community to reap the benefits of a crypto mining operation without maintenance, deep knowledge of hardware and blockchain, operating expenses, and overall hassle. 
 
-How it Works (Voting)
+
+-How it Works (Voting)
 All voting will take place at the end of each month. We will be integrating Gravi DAO’s technology into our project to ensure all voting is done fairly and securely. This system will ensure all Luna Miner’s polls are conducted fairly.
 
-For early supporters of the project, we will be launching a separate collection called Miner Cards. These collectors will give the holder 2 votes for each miner card in every DAO poll. Miner Card holders will automatically be whitelisted for the Luna Miners NFT mint. Miner Card holder will also receive 10% of the Luna Miner NFT sales in addition to eligibility to receive special airdrops. 
+
+-For early supporters of the project, we will be launching a separate collection called Miner Cards. These collectors will give the holder 2 votes for each miner card in every DAO poll. Miner Card holders will automatically be whitelisted for the Luna Miners NFT mint. Miner Card holder will also receive 10% of the Luna Miner NFT sales in addition to eligibility to receive special airdrops. 
 ●	Miner Card = 2 DAO votes
 ●	Luna Miner NFT = 1 DAO vote
 
@@ -49,7 +54,7 @@ For early supporters of the project, we will be launching a separate collection 
 
 
 
-NFT Utility
+-NFT Utility
 ●	Miner Card
 ○	2 votes per Card
 ○	10% of the Luna Miner NFT sale
@@ -95,7 +100,7 @@ Roadmap
 
 
 
-Long-Term Vision
+-Long-Term Vision
 Luna Miners is looking to build a sustainable, decentralized mining facility that offsets the energy usage through various forms of green energy. We aim to 
 Provide a new source of liquidity to p.o.s. blockchains empowering users and protocols 
 Further decentralize and secure p.o.w blockchains in a green sustainable manor that benifets the entire crypto market
