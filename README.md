@@ -2,7 +2,7 @@
 White paper for Luna miners 
 
 Now nomads rebuilding to support multiple blockchains 
-Updated white papers will be released soon to incorporate our mission to spread across multiple ecosystems and incorporate new feature like percentage based payouts according to your portfolio preferences 
+Updated white papers and roadmap will be released soon to incorporate our mission to spread across multiple ecosystems and incorporate new feature like percentage based payouts according to your portfolio preferences 
 
 
 
