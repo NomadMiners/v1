@@ -1,5 +1,8 @@
 # v1
-Info on project
+White paper Luna miners 
+
+Now nomads rebuilding to support multiple blockchains 
+Updated white papers will be released soon to incorporate our mission to spread across multiple ecosystems 
 
 
 
@@ -71,9 +74,9 @@ Proceeds from the Miner Card sale will be to used to finance to the project. The
 Funds from the Luna Miner NFT sale will allocated to the following:
 ●	60% - Buy high powered crypto miners. These miners will be used to boost the profits the Luna Miners DAO. The profits produced will ensure the Luna Miner DAO is positioned to scale quickly and efficiently on a monthly basis.
 ●	10% - Invested into green technology such as solar power to offset the energy usage produced by the facility.
-●	10% - Shared with early partners such as WeFund to continue assist projects being built on the Terra ecosystem and show appreciation for their efforts in our early stages of development.
+●	10% - Shared with early partners such  to continue assist projects being built new projects being built across the ecosystem 
 ●	5% - Shared to wallets holding a Miner Card.
-●	5% - Shared to Angel Protocol to support a charity of the Luna Miner DAO’s choice.
+●	5% - Shared to a charity of the Luna Miner DAO’s choice.
 ●	10%- Project creator(s).
 
 * Project creators will receive a 4% royalty anytime a Luna Miner NFT or Luna Miner Card is sold. This will be dedicated to further expand the project.
@@ -93,6 +96,8 @@ Roadmap
 
 
 Long-Term Vision
-Luna Miners is looking to build a sustainable, decentralized ecosystem and mining facility that offsets the energy requirements with green technology. Luna Miners aims to utilize solar power to offset electricity costs and electricity generated from harmful sources. In addition to this, the heat the miners will also be repurposed for environmentally sound purposes. By minting a Luna Miner NFT or Luna Miner Card, you will be helping decentralize and secure multiple ecosystems, proving mining can be environmentally sound. 
-
+Luna Miners is looking to build a sustainable, decentralized mining facility that offsets the energy usage through various forms of green energy. We aim to 
+Provide a new source of liquidity to p.o.s. blockchains empowering users and protocols 
+Further decentralize and secure p.o.w blockchains in a green sustainable manor that benifets the entire crypto market
+Spread our nomads daos to multiple blockchains 
 
